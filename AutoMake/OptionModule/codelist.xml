@@ -1,0 +1,14 @@
+<codelist>
+	<code codeversion="M7630AABBQMLZA414007" project="S100-AP" des="S100 AP" branchname="phs100_414007" manifest-url="git://192.167.100.232/platform/manifest.git" repo-url="git://192.167.100.232/repo.git" onlygit="false"/>
+	<code codeversion="M7630AABBQMLZA414007" project="S100Wang-AP" des="S100 for WangWang" branchname="phs100_414007_wang" manifest-url="git://192.167.100.232/platform/manifest.git" repo-url="git://192.167.100.232/repo.git" onlygit="false"/>
+	<code codeversion="M7630AABBQMLZA414007" project="S300-AP" des="S300" branchname="msm8255_414007" manifest-url="git://192.167.100.232/platform/manifest.git" repo-url="git://192.167.100.232/repo.git" onlygit="false"/>
+	<code codeversion="M8960AAAAANLYA2031" project="LSRTitan-AP" des="LSR" branchname="titan_jb" manifest-url="git://192.167.100.232/platform/manifest.git" repo-url="git://192.167.100.232/repo.git" onlygit="false"/>
+	<code codeversion="M8960AAAAANLYA2031" project="Cathy-AP" des="cathy" branchname="cathy_jb" manifest-url="git://192.167.100.232/platform/manifest.git" repo-url="git://192.167.100.232/repo.git" onlygit="false"/>
+	<code codeversion="M8960AAAAANLYA2035" project="Titan-Apollo-AP" des="Titan and Apollo" branchname="msm8960_jb" manifest-url="git://192.167.100.232/platform/manifest.git" repo-url="git://192.167.100.232/repo.git" onlygit="false"/>
+	<code codeversion="R8625QSOSKQLYA3060" project="S100D-AP" des="" branchname="qrd8625_jb" manifest-url="git://192.167.100.232/platform/manifest.git" repo-url="git://192.167.100.232/repo.git" onlygit="false"/>
+	<code codeversion="M7630AABBQMAZM414007" project="S100-Modem" des="S100 modem code" branchname="phs100_414007" manifest-url="git://192.167.100.232/AMSS.git" onlygit="true"/>
+	<code codeversion="M7630AABBQMAZM414007" project="S300-Modem" des="S300 modem code" branchname="s300_414007" manifest-url="git://192.167.100.232/AMSS.git" onlygit="true" />
+	<code codeversion="M8960AAAAANLYD2031" project="LSR-Titan-Modem" des="" branchname="titan" manifest-url="git://192.167.100.232/Non-HLOS" onlygit="true"/>
+	<code codeversion="M8960AAAAANLYD2035" project="Tian-Apollo-Modem" des="" branchname="msm8960_jb" manifest-url="git://192.167.100.232/Non-HLOS" onlygit="true" />
+	<code codeversion="R8625QSOSKQLYA3050" project="S100D-Modem" des="" branchname="qrd8625_jb" manifest-url="git://192.167.100.232/AMSS.git" onlygit="true"/>
+</codelist>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<automake version="1.0" workspace="">
+	<project compileid="" name="S100-AP" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="S100Wang-AP" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="S300-AP" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="LSRTitan-AP" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="automake-eng.sh" nickname="" serverpath=""/>
+		<build-instance buildid="" compileid="" makefile="automake-user.sh" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="Cathy-AP" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="Titan-Apollo-AP" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="S100D-AP" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="S100-Modem" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="S300-Modem" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="LSR-Titan-Modem" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="Tian-Apollo-Modem" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="automake.sh" nickname="" serverpath=""/>
+	</project>
+	<project compileid="" name="S100D-Modem" pullcode="no">
+		<build-instance buildid="" compileid="" makefile="automake.sh" nickname="" serverpath=""/>
+	</project>
+</automake>
